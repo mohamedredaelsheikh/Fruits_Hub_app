@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 # Fruits_Hub_app
-=======
-# fruits_e_commerce_app
 
 A new Flutter project.
 
